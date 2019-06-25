@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Saigon and Wine',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Thưởng thức rượu là thưởng thức cái tinh túy, tinh túy của sự sáng tạo, tinh túy của lao động miệt mài và tinh túy của thời gian. Rượu Sài Gòn cũng là...'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
