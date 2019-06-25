@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Rươu Xách Tay 100%
+title: Rượu Xách Tay 100%
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
